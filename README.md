@@ -15,3 +15,5 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/danifufu/danifufu/blob/output/github-contribution-grid-snake.svg)
