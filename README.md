@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
-  <img align="center" height="37" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" height="80" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" height="37" width="47" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg">
   <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
